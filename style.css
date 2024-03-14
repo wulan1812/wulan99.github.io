@@ -1,0 +1,29 @@
+body{
+    min-height: 3000px;
+}
+.jumbotron{
+    padding-top:6rem;
+    background-color: #c5cf92;
+    background-size: cover;
+}
+
+.container.op {
+    display: inline-flex;
+
+}
+#projects{
+    background-color: #ffff;
+}
+section{
+    padding-top: 5rem;
+}
+.wl{
+    display:inline-block;
+}
+.ds{
+    display: inline-block;
+}
+.navbar-brand {
+    display: inline-block;
+    left: 200px;
+}
